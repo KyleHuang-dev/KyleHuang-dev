@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kylehuang.netlify.app/](https://kylehuang.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB, PostgreSQL and Node**
+- 💬 Ask me about **HTML, CSS, JavaScript, React,Node, MongoDB, and PostgreSQL **
 
 - 📫 How to reach me **kyle.huang.dev@gmail.com**
 
