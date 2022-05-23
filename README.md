@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyle Huang</h1>
 <h3 align="center">Proven track record of creating and implementing successful front and back end web applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylehuang-dev" alt="kylehuang-dev" /></a> </p>
-
 - 🔭 I’m currently working on [Waiting List App](www.)
 
 - 👨‍💻 All of my projects are available at [https://kylehuang.netlify.app/](https://kylehuang.netlify.app/)
