@@ -35,7 +35,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">M&S Commerce.ca</h3>
-        <a target="_blank" href="https://mscommerce.ca">
+        <a target="_blank" href="https://mscommerce.ca/">
             <img src="https://user-images.githubusercontent.com/103638319/188299267-373aff85-6e32-49c7-b857-0145e64e2812.JPG" width="100%" alt="M&S Commerce"/>
         </a>
         <br />
