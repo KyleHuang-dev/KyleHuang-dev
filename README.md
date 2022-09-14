@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kylehuang.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/103638319/190067868-8492f75f-43d9-4458-8adf-aeaebf9eb20c.JPG" alt="Kyle Huang banner"></a>
+  <a href="https://kylehuang.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/103638319/190070762-d478e9b4-e270-4d79-8545-52842b69ac8d.png"></a>
 </p>
 
 <p align="center">
