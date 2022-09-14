@@ -41,7 +41,7 @@
         <br />
         <p align="center">
           
-  <a href="https://mscommer.ca" target="_blank">
+  <a href="https://mscommerce.ca/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d3557&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
