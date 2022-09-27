@@ -91,7 +91,7 @@
         <br />
         <p align="center">
           
-  <a href=# target="_blank">
+  <a href="https://github.com/KyleHuang-dev/waiting-list" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=457b9d&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href=# target="_blank">
