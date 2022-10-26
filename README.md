@@ -48,6 +48,27 @@
         <p><strong>Javascrpt, HTML, & CSS</strong> - Amazon.ca best seller's website for Cafe La Llave Espresso Coffee</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">Waiting List App</h3>
+        <a target="_blank" href="https://waiting-list-app.cyclic.app/">
+          <img src="https://user-images.githubusercontent.com/103638319/198110600-08f4ae16-2531-47c1-b5c3-d1cdca625661.gif" width="100%" alt="Waiting List App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KyleHuang-dev/waiting-list" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=457b9d&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://waiting-list-app.cyclic.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d3557&style=plastic&logo=netlify&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Node.js, Express.js, MongoDB, JavaScript, HTML5, & CSS3</strong> - Full stack web application, allow Users to send message to customer when the table is ready.</p>
+    </td>
+    
+  </tr>
+  
+  <tr>
+  <td width="50%" valign="top">
       <h3 align="center">Movie Watchlist</h3>
       <a target="_blank" href="#">
             <img src="https://user-images.githubusercontent.com/103638319/188299267-373aff85-6e32-49c7-b857-0145e64e2812.JPG" width="100%"  alt="Movie Watchlist"/>
@@ -64,9 +85,6 @@
       </p>
         <p><strong>Node.js, Express.js, MongoDB, JavaScript, Bootstrap & CSS </strong> - Full stack web application with restful API and MVC, which lets users sign up and log in, search, add and delete favour movies, and update likes.</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">KyleHuang.com</h3>
         <a target="_blank" href="https://kylehuang.netlify.app">
@@ -83,23 +101,7 @@
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio site displaying my work and contact information.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Waiting List App</h3>
-        <a target="_blank" href="https://waiting-list-app.cyclic.app/">
-          <img src="https://user-images.githubusercontent.com/103638319/188299267-373aff85-6e32-49c7-b857-0145e64e2812.JPG" width="100%" alt="Waiting List App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/KyleHuang-dev/waiting-list" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=457b9d&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://waiting-list-app.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d3557&style=plastic&logo=netlify&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Node.js, Express.js, MongoDB, JavaScript, HTML5, & CSS3</strong> - Full stack web application, allow Users to send message to customer when the table is ready.</p>
-    </td>
+    
   </tr>
 </table>
 
