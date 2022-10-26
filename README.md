@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d3557&style=plastic&logo=netlify&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Node.js, Express.js, MongoDB, JavaScript, HTML5, & CSS3</strong> - Full stack web application, allow Users to send message to customer when the table is ready.</p>
+        <p><strong>Node.js, Express.js, MongoDB, JavaScript, Cloudinary, Tailwind, HTML5, & CSS3</strong> - Full stack web application, allow Users to send message to customer when the table is ready.</p>
     </td>
     
   </tr>
