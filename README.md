@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d3557&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascrpt, HTML, & CSS</strong> - Amazon.ca best seller's website for Cafe La Llave Espresso Coffee</p>
+        <p><strong>Javascrpt, HTML, & CSS</strong> - Amazon seller’s store website for Cafe La Llave Espresso Coffee</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Waiting List App</h3>
@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d3557&style=plastic&logo=netlify&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Node.js, Express.js, MongoDB, JavaScript, Cloudinary, Tailwind, HTML5, & CSS3</strong> - Full stack web application, allow Users to send message to customer when the table is ready.</p>
+        <p><strong>Node.js, Express.js, MongoDB, JavaScript, Cloudinary, Tailwind, HTML5, & CSS3</strong> - Full stack web application, allow Users to send message to customer when the table is ready, and upload image and update customers' profile.</p>
     </td>
     
   </tr>
