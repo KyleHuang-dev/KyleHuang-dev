@@ -71,7 +71,7 @@
   <td width="50%" valign="top">
       <h3 align="center">Movie Watchlist</h3>
       <a target="_blank" href="#">
-            <img src="https://user-images.githubusercontent.com/103638319/188299267-373aff85-6e32-49c7-b857-0145e64e2812.JPG" width="100%"  alt="Movie Watchlist"/>
+            <img src="https://user-images.githubusercontent.com/103638319/198165323-c8fa1ee0-4842-4c51-8b58-48c81fec6745.gif" width="100%"  alt="Movie Watchlist"/>
         </a>
         <br />
         <p align="center">
