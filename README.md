@@ -34,20 +34,6 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">M&S Commerce.ca</h3>
-        <a target="_blank" href="https://mscommerce.ca/">
-            <img src="https://user-images.githubusercontent.com/103638319/195465686-fffafc7f-0b49-422f-8d10-b1d20300bc25.gif" width="100%" alt="M&S Commerce"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://mscommerce.ca/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d3557&style=plastic&logo=react&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascrpt, HTML, & CSS</strong> - Amazon seller’s store website for Cafe La Llave Espresso Coffee</p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">Waiting List App</h3>
         <a target="_blank" href="https://waiting-list-app.cyclic.app/">
           <img src="https://user-images.githubusercontent.com/103638319/198110600-08f4ae16-2531-47c1-b5c3-d1cdca625661.gif" width="100%" alt="Waiting List App"/>
@@ -64,7 +50,20 @@
       </p>
         <p><strong>Node.js, Express.js, MongoDB, JavaScript, Cloudinary, Tailwind, HTML5, & CSS3</strong> - Full stack web application, allow Users to send message to customer when the table is ready, and upload image and update customers' profile.</p>
     </td>
-    
+    <td width="50%" valign="top">
+      <h3 align="center">M&S Commerce.ca</h3>
+        <a target="_blank" href="https://mscommerce.ca/">
+            <img src="https://user-images.githubusercontent.com/103638319/195465686-fffafc7f-0b49-422f-8d10-b1d20300bc25.gif" width="100%" alt="M&S Commerce"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://mscommerce.ca/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d3557&style=plastic&logo=react&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascrpt, HTML, & CSS</strong> - Amazon seller’s store website for Cafe La Llave Espresso Coffee</p>
+    </td>
   </tr>
   
   <tr>
