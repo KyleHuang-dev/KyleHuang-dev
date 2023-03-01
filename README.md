@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://kylehuang.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/103638319/194696548-7e9b3557-a9e1-4247-99f0-6ce7d1c492c1.JPG"></a>
 </p>
 
@@ -140,3 +140,4 @@
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=03045E&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
+ -->
